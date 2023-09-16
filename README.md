@@ -1,1 +1,1 @@
-# CPP_for_quantitative-finance
+# Pricing and modelling derivatives in C++
