@@ -4,3 +4,5 @@
 3.Binomial Trees<br>
 4.Exotic Options<br>
 5.Stochastic Volatility(Implied Volatility, Jump Diffusion Model...)
+
+Self learning notes
