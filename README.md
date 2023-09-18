@@ -5,4 +5,4 @@
 4.Exotic Options<br>
 5.Stochastic Volatility(Implied Volatility, Jump Diffusion Model...)
 
-Self learning notes
+Notes by Jack YU
