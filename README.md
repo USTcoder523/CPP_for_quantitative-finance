@@ -6,7 +6,7 @@
 5.Stochastic Volatility(Implied Volatility, Jump Diffusion Model...)
 
 
-##The QuantLib Library##
+## The QuantLib Library ##
 The example of a library that is used in quantitative finance and options analysis is the QuantLib library. QuantLib is a well-established repository of quantitative code for C++. The library has been tested and used by many developers, which means that you can take advantage of the hard work that went into creating and testing the algorithms.<br />
 
 Being an open source project, QuantLib is free and can be used by anyone by just downloading and building the source code. The project also accepts contributed code, which means that many people can fix bugs and participate in the improvement of the library.<br />
