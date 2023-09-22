@@ -11,6 +11,7 @@ The second example of a library that is used in quantitative finance and options
 Being an open source project, QuantLib is free and can be used by anyone by just downloading and building the source code. The project also accepts contributed code, which means that many people can fix bugs and participate in the improvement of the library.
 The QuantLib contains a wide assortment of classes that simplify certain taMonte Carlo methods: A few of the classes provided by QuantLib
 are used to simplify the implementation of Monte Carlo methods. These classes make it easier to create, for example, random paths for financial instruments, as well as similar models based on Brownian motion.
+
 - Pricing engines: Another area that is covered by QuantLib is
 the implementation of efficient pricing engines for options and derivatives. The library provides several techniques for options pricing, which are carefully packaged into C++ classes. These pricing engines include barrier option engines, Asian option engines, basket option engines, and vanilla option engines.
 - Optimizers: Another utility that is frequently employed in financial applications is an optimization engine. The QuantLib library contains a few classes dedicated to some common optimization strategies. Using such optimization algorithms, it is possible to quickly solve complex problems where the objective is to find the minimum or the maximum of a given function.sks that are necessary in quantitative algorithms for finance. A few areas covered by QuantLib are the following:
