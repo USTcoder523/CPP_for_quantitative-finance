@@ -7,7 +7,7 @@
 
 
 The QuantLib Library
-The second example of a library that is used in quantitative finance and options analysis is the QuantLib library. QuantLib is a well-established repository of quantitative code for C++. The library has been tested and used by many developers, which means that you can take advantage of the hard work that went into creating and testing the algorithms.
+The example of a library that is used in quantitative finance and options analysis is the QuantLib library. QuantLib is a well-established repository of quantitative code for C++. The library has been tested and used by many developers, which means that you can take advantage of the hard work that went into creating and testing the algorithms.
 Being an open source project, QuantLib is free and can be used by anyone by just downloading and building the source code. The project also accepts contributed code, which means that many people can fix bugs and participate in the improvement of the library.
 The QuantLib contains a wide assortment of classes that simplify certain taMonte Carlo methods: A few of the classes provided by QuantLib
 are used to simplify the implementation of Monte Carlo methods. These classes make it easier to create, for example, random paths for financial instruments, as well as similar models based on Brownian motion.
